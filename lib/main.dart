@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
 
 main() {
   runApp(new PerguntaApp());
@@ -8,7 +7,7 @@ main() {
 class PerguntaApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Text("Olá Flutterrrr"),
+      home: Text("Primeiro App em flutter"),
     );
   }
 }
